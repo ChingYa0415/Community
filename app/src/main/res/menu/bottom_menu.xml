@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_Fragment"
+        android:icon="@drawable/ic_news"
+        android:title="@string/textHome" />
+    <item
+        android:id="@+id/forum_Fragment"
+        android:icon="@drawable/ic_news"
+        android:title="@string/textForum" />
+    <item
+        android:id="@+id/upload_Fragment"
+        android:icon="@drawable/add"
+        android:title="@string/textUpload" />
+    <item
+        android:id="@+id/childcare_Fragment"
+        android:icon="@drawable/ic_news"
+        android:title="@string/textChildCare" />
+    <item
+        android:id="@+id/member_Fragment"
+        android:icon="@drawable/ic_news"
+        android:title="@string/textMember" />
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Community</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textHome">首頁</string>
+    <string name="textForum">討論區</string>
+    <string name="textUpload">上傳</string>
+    <string name="textChildCare">托嬰</string>
+    <string name="textMember">會員</string>
+    <string name="textSettings">Settings</string>
+    <string name="textNews">News</string>
+</resources>
